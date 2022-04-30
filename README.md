@@ -1,2 +1,34 @@
-14 y/o developer from united states
-**strxanger#0001**
+<a href="https://strx.feds.lol" target="_blank"> <img src="https://cdn.discordapp.com/attachments/939231338077249577/970062651210215505/strxbannar1.gif?size=4096" alt="strxangers's Github"/></a>
+<h3 align="center">Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+
+```sh-session
+pip install a_life
+```
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=strxangerfr&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/strxangerfr" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/strxangerfr" alt="Total Forks"></a> </p>
+
+- **✔️ Latest open source project: nothing**
+
+- **🔭 I’m currently working on Nothing**
+
+- **🌱 I’m currently learning Python**
+
+- **💬 Ask me about methods or doxxing**
+
+- **📫 Want to reach me? Add strxanger#0001 on [discord](https://strx.feds.lol)**
+
+- **🌐 Website: [strx.feds.lol](https://strx.feds.lol/)**
+
+<h3 align="left">Languages I Know/Undertsand:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/939014463670091857)](https://discord.com/users/939014463670091857)
+
+</a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strxangerfr&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Strxanger" /> </p>
+
+<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
