@@ -2,7 +2,6 @@
 <h3 align="center">Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 ```sh-session
-pip install a_life
 ```
 
 <p align="center">
