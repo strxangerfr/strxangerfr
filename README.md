@@ -1,8 +1,6 @@
 <a href="https://strx.feds.lol" target="_blank"> <img src="https://cdn.discordapp.com/attachments/939231338077249577/970062651210215505/strxbannar1.gif?size=4096" alt="strxangers's Github"/></a>
-<h3 align="center">Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">Hello,</h3>
 
-```sh-session
-```
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=strxangerfr&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
