@@ -8,6 +8,3 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/strxangerfr" alt="Total Forks"></a> </p>
 
 <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
-
-ReadMe Cred to [Shade](https://github.com/shade3421) <3
-strxanger was here
