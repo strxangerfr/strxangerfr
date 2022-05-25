@@ -1,5 +1,5 @@
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/939014463670091857)](https://discord.com/users/969381120846209104)
+[![Discord Presence](https://lanyard.cnrad.dev/api/969381120846209104)](https://discord.com/users/969381120846209104)
 ![Strxangers GitHub stats](https://github-readme-stats.vercel.app/api?username=strxangerfr&theme=dark&show_icons=true)
 
 <p align="topright">
